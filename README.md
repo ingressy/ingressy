@@ -14,5 +14,5 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ingressy&theme=blueberry) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ingressy&theme=blueberry)
+![](https://raw.githubusercontent.com/ingressy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ingressy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
